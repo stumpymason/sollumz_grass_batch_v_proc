@@ -1,0 +1,898 @@
+{
+  "version": 1,
+  "game": "gta5",
+  "category": "grass_batch",
+  "presets": [
+    {
+      "name": "v_proc",
+      "data": {
+        "templates": [
+          {
+            "archetype_name": "proc_brittlebush_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_desert_sage_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_dry_plants_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_drygrasses01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_drygrasses01b",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_drygrassfronds01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_dryplantsgrass_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_dryplantsgrass_02",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_forest_grass01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_forest_ivy_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_grassdandelion01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_grasses01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_grasses01b",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_grassfronds01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_grassplantmix_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_grassplantmix_02",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_indian_pbrush_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_leafybush_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_leafyplant_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_lizardtail_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_lupins_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_meadowmix_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_meadowpoppy_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_sage_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_scrub_bush01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_sml_reeds_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_sml_reeds_01b",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_sml_reeds_01c",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_stones_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_stones_02",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_stones_03",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_stones_04",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_stones_05",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_stones_06",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "proc_wildquinine",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_dandy_b",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_dryweed_001_a",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_dryweed_002_a",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_fernba",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_fernbb",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_flowerweed_005_a",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_grass_001_a",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_grass_ca",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_grass_da",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_log_aa",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_log_ab",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_log_ac",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_log_ad",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_log_ae",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_log_af",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_saplin_001_b",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_saplin_001_c",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_saplin_002_b",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_saplin_002_c",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_small_bushyba",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_tall_drygrass_aa",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_tall_grass_ba",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_thindesertfiller_aa",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_weed_001_aa",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "prop_weed_002_ba",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbandryfrnds_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbandrygrass_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbangrnfrnds_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbangrngrass_01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbanweeds01",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbanweeds01_l1",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbanweeds02",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          },
+          {
+            "archetype_name": "urbanweeds02_l1",
+            "scale_range": [
+              0.699999988079071,
+              1.0
+            ],
+            "scale_randomness": 0.20000000298023224,
+            "lod_dist": 100,
+            "lod_fade_start_dist": 20.0,
+            "lod_inst_fade_range": 0.75,
+            "orient_to_terrain": 1.0,
+            "spawn_weight": 1.0
+          }
+        ]
+      }
+    }
+  ]
+}
